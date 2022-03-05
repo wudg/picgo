@@ -1,2 +1,5 @@
 # picgo
-图床例子
+
+github+picgo++jsDelivr
+
+私人图传
